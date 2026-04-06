@@ -1,6 +1,6 @@
 ---
 title: "Escenas lectoras: Jardín secreto"
-date: 11-04-2025
+date: 2025-04-11
 tags:
   - escenas-lectoras
   - fotografía

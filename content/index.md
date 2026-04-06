@@ -18,7 +18,7 @@ Donde sea que vamos, como las tortugas o los caracoles, llevamos nuestra casa im
 ## Nuestros proyectos
 
 ### [Ediciones de la Terraza](https://edicioneslaterraza.com.ar/)
-Editorial de libros ilustrados con licencias Creative Commons · desde 2012
+Editorial de libros ilustrados con licencias [[Creative Commons]] · desde 2012
 
 [Nuestros libros](https://edicioneslaterraza.com.ar/portfolio/) · [Instagram](https://www.instagram.com/edicionesdelaterraza/) · [Facebook](https://www.facebook.com/EdicionesDeLaTerraza) · [YouTube](https://www.youtube.com/@EdicionesdelaTerraza)
 
