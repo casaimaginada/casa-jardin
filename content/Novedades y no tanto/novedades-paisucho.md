@@ -1,6 +1,6 @@
 ---
 title: "Novedades y no tanto: paisucho"
-date: 22-11-2024
+date: 2024-11-22
 tags:
   - novedades-y-no-tanto
   - video

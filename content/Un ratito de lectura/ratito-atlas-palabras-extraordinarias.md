@@ -1,6 +1,6 @@
 ---
 title: "Un ratito de lectura: Atlas de palabras extraordinarias"
-date: 28-06-2024
+date: 2024-06-28
 tags:
   - un-ratito-de-lectura
   - video

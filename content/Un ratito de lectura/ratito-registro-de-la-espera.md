@@ -1,6 +1,6 @@
 ---
 title: "Un ratito de lectura: Registro de la espera"
-date: 05-07-2024
+date: 2024-07-05
 tags:
   - un-ratito-de-lectura
   - video

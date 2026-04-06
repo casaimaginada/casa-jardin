@@ -1,6 +1,6 @@
 ---
 title: "Novedades y no tanto: La Higuera"
-date: 04-04-2025
+date: 2025-04-04
 tags:
   - novedades-y-no-tanto
   - video

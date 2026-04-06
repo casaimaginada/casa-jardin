@@ -1,6 +1,6 @@
 ---
 title: "Novedades y no tanto: En vereda"
-date: 11-10-2024
+date: 2024-10-11
 tags:
   - novedades-y-no-tanto
   - video

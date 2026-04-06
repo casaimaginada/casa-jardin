@@ -1,6 +1,6 @@
 ---
 title: "Un ratito de lectura: Mi querido Marcopolo. Travesías / Un diario de viaje"
-date: 21-06-2024
+date: 2024-06-21
 tags:
   - un-ratito-de-lectura
   - video
