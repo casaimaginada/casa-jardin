@@ -1,3 +1,9 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Enlaces a páginas que no existen: no clickeables y apagados
+a[href].internal.broken {
+  pointer-events: none;
+  opacity: 0.4;
+  text-decoration: none;
+  cursor: default;
+}
