@@ -13,30 +13,30 @@ Apostamos por trabajar como nos gusta. Disfrutando el día a día, explorando la
 
 Donde sea que vamos, como las tortugas o los caracoles, llevamos nuestra casa imaginada con nosotres. Bibliotecas, escuelas, plazas, terrazas, patios, meets, videollamadas, ferias, festivales, desde donde estemos… Y nuestra casa, donde les esperamos, obvio.
 
+Somos [[Agustina Arévalo Báez]], [[Daniela Azulay]], [[Vanina Boco]], [[Barbi Couto]], [[Mauricio Micheloud]] y [[Silvia Orecchia]]. Nuestra casa imaginada tiene dirección postal en Córdoba Argentina. La casa digital es en realidad un jardín, este que estás recorriendo y si quieren escribirnos nuestro correo es casaimaginadacoop@gmail.com
+
 [Instagram](https://www.instagram.com/casa.imaginada/) · [YouTube](https://www.youtube.com/@casa.imaginada) · [Telegram](https://t.me/casaimaginada) · [WhatsApp](https://whatsapp.com/channel/0029Vajff4m6WaKkzAmXsV29)
 
 ## Nuestros proyectos
 
-### [Ediciones de la Terraza](https://edicioneslaterraza.com.ar/)
+[[Ediciones de la Terraza]]
 Editorial de libros ilustrados con licencias [[Creative Commons]] · desde 2012
 
 [Nuestros libros](https://edicioneslaterraza.com.ar/portfolio/) · [Instagram](https://www.instagram.com/edicionesdelaterraza/) · [Facebook](https://www.facebook.com/EdicionesDeLaTerraza) · [YouTube](https://www.youtube.com/@EdicionesdelaTerraza)
 
-### Traficante de Libros
+[[Traficante de libros]]
 Librería de libros ilustrados · venta en sede y ferias · desde 2014
 
 [Instagram](https://www.instagram.com/traficantedelibros/) · [Facebook](https://www.facebook.com/traficantesdelibros)
 
-### Casa Rodante
+[[Casa Rodante]]
 Talleres y servicios editoriales para organizaciones educativas y comunitarias
-
 [Conocé más →](dossier_casa_rodante_compressed.pdf)
 
-### Artilugio
+[[Artilugio]]
 Productos gráficos artesanales · cuadernos, láminas, pósters
 
-## Nuestra tienda
-
+[[Nuestra tienda]]
 Te invitamos a navegar la tienda y consultarnos lo que necesites en [Empretienda](https://casaimaginada.empretienda.com.ar/)
 
 ## Formamos parte de
