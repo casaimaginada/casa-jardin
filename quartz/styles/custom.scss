@@ -1,9 +1,3 @@
 @use "./base.scss";
 
-// Enlaces a páginas que no existen: no clickeables y apagados
-a.internal.alias {
-  pointer-events: none;
-  opacity: 0.4;
-  text-decoration: none;
-  cursor: default;
-}
+// put your custom CSS here!
