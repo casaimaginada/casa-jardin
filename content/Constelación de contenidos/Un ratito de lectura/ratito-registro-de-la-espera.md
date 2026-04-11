@@ -13,4 +13,4 @@ Voz: [[Daniela Azulay]]
 Video: [[Barbi Couto]]
 Música: It happened one night
 Músico: Konstantin Tyufyakin https://open.spotify.com/intl-es/artist/5l0NPpIKBDNIrlyYj9vqVn
-Podés verlo en: https://youtu.be/2t8AIzs8uFM?si=0FlN4DQzsQCszub5
+Podés verlo en: ![](https://youtu.be/2t8AIzs8uFM?si=0FlN4DQzsQCszub5)

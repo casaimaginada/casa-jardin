@@ -13,4 +13,4 @@ Video: [[Daniela Azulay]]
 Música: The Way Home 
 Músico: ZakharValaha 
 URL de la música: https://pixabay.com/music/modern-classical-the-way-home-6674/
-Podés verlo en: https://youtu.be/FiIqlF7bTC8?si=jK0GkfUbu4ObPcd9
+Podés verlo en: ![](https://www.youtube.com/watch?v=FiIqlF7bTC8) 

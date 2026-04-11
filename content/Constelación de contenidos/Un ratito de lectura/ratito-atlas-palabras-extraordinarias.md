@@ -13,4 +13,4 @@ En esta ocasión, [[Atlas de palabras extraordinarias]] de [[Julieta La Casa]] y
 Voz: [[Barbi Couto]]
 Video:  [[Daniela Azulay]]
 Sound Effect by Empress-Kathryne Nefertiti-Mumbi from Pixabay
-Podés verlo en: https://youtu.be/mnXwuVtofMo?si=kHnDtFSFn5syw96F
+Podés verlo en: ![](https://www.youtube.com/watch?v=mnXwuVtofMo)
