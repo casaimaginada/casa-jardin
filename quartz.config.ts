@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "es-ES",
     baseUrl: "casaimaginada.coop.ar",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
