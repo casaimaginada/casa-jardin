@@ -66,9 +66,9 @@ export default {
       lastFewNotes: ({ count }) => `Últimas ${count} notas`,
     },
     error: {
-      title: "No se ha encontrado.",
-      notFound: "Esta página es privada o no existe.",
-      home: "Regresa a la página principal",
+      title: "Esta semilla todavía está germinando 🌱",
+      notFound: "El contenido que buscás es parte del jardín de Casa Imaginada, pero todavía no tiene su página. Volvé pronto o explorá desde el inicio.",
+      home: "Volver al inicio",
     },
     folderContent: {
       folder: "Carpeta",
