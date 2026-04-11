@@ -7,7 +7,7 @@ tags:
   - cultura-libre
 draft: false
 ---
-[[Un ratito de lectura]] es un espacio de Casa Imaginada dedicado a compartir los textos que más nos gustan. Invitamos a escuchar y compartir 🎧🧉
+[[Un ratito de lectura]]] es un espacio de Casa Imaginada dedicado a compartir los textos que más nos gustan. Invitamos a escuchar y compartir 🎧🧉
 En esta ocasión, [[Registro de la espera]] de [[Lala Martin]], colección [[Marca de nacimiento]], [[Cielo de pecas]], 2023.
 Voz: [[Daniela Azulay]]
 Video: [[Barbi Couto]]

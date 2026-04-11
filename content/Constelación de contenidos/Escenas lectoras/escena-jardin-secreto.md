@@ -6,7 +6,7 @@ tags:
   - fotografía
 draft: false
 ---
-[[Escenas lectoras]] 📷📚 
+Escenas lectoras 📷📚 
 Cada libro tiene su historia.
 
 ¿Se puede construir un jardín secreto en medio de la furia de la ciudad?

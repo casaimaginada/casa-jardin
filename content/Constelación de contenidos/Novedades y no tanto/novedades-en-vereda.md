@@ -13,4 +13,4 @@ draft: false
 Reseña: [[Daniela Azulay]]
 Video: [[Barbi Couto]]
 Música por audionautix.com. Licencia Creative Commons Atribución 4.0 Internacional.
-Podés verlo en: https://youtu.be/3NMDf61Qi0c?si=mUANOFtyLFjFhogT
+Podés verlo en: ![](https://youtu.be/3NMDf61Qi0c?si=mUANOFtyLFjFhogT)

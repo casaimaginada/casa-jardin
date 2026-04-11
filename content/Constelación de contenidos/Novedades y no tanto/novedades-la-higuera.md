@@ -14,4 +14,4 @@ draft: false
 Reseña: [[Daniela Azulay]]
 Video: [[Daniela Azulay]] y [[Barbi Couto]]
 Música: Autumm Sunset, por Jason Show, bajo licencia Creative Commons Atribución 4.0 Internacional en audionautix.com
-Podés verlo en: https://youtu.be/9V6Z3tgPXNw?si=FNp5xYDl7gAGP4sI
+Podés verlo en: ![](https://youtu.be/9V6Z3tgPXNw?si=FNp5xYDl7gAGP4sI)
