@@ -1,6 +1,6 @@
 ---
 title: Guía del wikimedista barrial, en Alberdi
-date: 2026-04-14
+date: 2026-04-16
 tags:
   - cultura-libre
   - libro
@@ -11,7 +11,9 @@ draft: false
 ---
 La **Guía del wikimedista barrial, en Alberdi** es un libro-guía digital, que funciona como crónica y guía del proyecto de mismo nombre, seleccionado en 2025 en la convocatoria de apoyo a "Proyectos de la Comunidad", organizada por [[Wikimedia Argentina]] cada año. El proyecto consistió en un tour fotográfico y una editatón para fotografiar el [[barrio Alberdi]] y subir las fotos a Wikimedia Commons, todo de manos de sus propios vecinos y finalizó cronicado en esta guía que aquí presentamos. 
 
-<iframe src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Gu%C3%ADa_del_wikimedista_barrial%2C_en_Alberdi.pdf" width="100%" height="800px"></iframe>
+![[guia-wikimedista-barrial-alberdi-tapa.png|200]]
+
+[Descargar el pdf desde Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Gu%C3%ADa_del_wikimedista_barrial,_en_Alberdi.pdf)
 
 ISBN: 978-631-91559-1-4
 1a edición / Digital PDF
@@ -25,8 +27,6 @@ Casa Rodante 2026
 El proyecto, llevado adelante durante 2025, se centró en la historia cultural de barrio Alberdi. La propuesta consistió en: Recorrer Alberdi fotografiando lugares y espacios que definen el barrio: bibliotecas, plazas, pasajes con historia. Hicimos un tour fotográfico con la complicidad del centro vecinal y la gente del proyecto de turismo comunitario Territorio Alberdi. Después, organizamos un editatón para subir todas esas fotos a Wikimedia Commons, para que cualquier persona puede acceder y usar contenido multimedia para construir conocimiento colaborativo. El mundo entero puede conocer detalles y momentos especiales propios de la riqueza cultural de Alberdi. Finalmente, editar esta **Guía del wikimedista barrial, en Alberdi** porque no solo queremos compartir el barrio y sus historias y hacerlo de manera libre, digital y global, sino que nos interesó aprender juntes y compartir las herramientas, recursos y aprendizajes de los cinco meses de duración del proyecto para que otres puedan registrar también la memoria de sus propios barrios. 
 
 ### Enlaces del proyecto
-
-![[guia-wikimedista-barrial-alberdi-tapa.png|200]]
 
 [Página de la guía en Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Gu%C3%ADa_del_wikimedista_barrial,_en_Alberdi.pdf)
 

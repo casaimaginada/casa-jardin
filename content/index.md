@@ -1,5 +1,5 @@
 ---
-title: Casa Imaginada
+title:
 draft: false
 ---
 
