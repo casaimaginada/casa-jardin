@@ -1,55 +1,16 @@
 ---
-title:
+title: ¿Por qué un jardín digital?
 draft: false
 ---
 
 ![Logo Casa Imaginada](logo-icono.svg)
 
-Somos una cooperativa cultural de trabajo, radicada en Córdoba, Argentina y dedicada a la producción y difusión de las narrativas que más nos gustan en múltiples soportes y lenguajes.
+A esta página la iremos haciendo crecer con el paso del tiempo. 
+Empezamos el proyecto un día cualquiera de otoño en 2026, sembrando las primeras notas-semillas esperando que broten, crezcan y florezcan. Desde que la cooperativa nació en octubre de 2023 estamos contando historias que vamos soltando por el camino. Ratitos de lectura, reseñas y no tanto, historias libres, escenas lectoras... En la terraza de nuestra casa imaginamos libros, en la cocina preparamos proyectos, en el balcón nos hacemos compinches con la vecindad... 
 
-Apostamos por la lectura en todas sus formas y formatos. Hacemos libros ilustrados, objeto, digitales. Fanzines, audiolibros, ratitos de lectura, historias libres. Radio, ficciones digitales, producciones audiovisuales. Recomendaciones de novedades y no tanto, artículos y entrevistas. Cositas lindas, pósters, sueltas de libros, rondas de lectura, talleres, espacios donde poder compartir la palabra.
+Y desde un día cualquiera de otoño en 2026, en este jardín digital hemos empezado a sembrar de a poco todo lo que hacemos. Confiamos en que, con el tiempo, las ideas y convicciones que cimientan nuestro trabajo se irán enlazando, entrecruzando, enredando, se irán fortaleciendo cada vez más. La casa imaginada se puede navegar desde el menú de la izquierda, pero también saltando de etiqueta en etiqueta o siguiendo los enlaces dentro de cada nota. No dejen de explorar la vista gráfica. Es la más linda forma de leer este jardín. 🌱
 
-Apostamos por trabajar como nos gusta. Disfrutando el día a día, explorando las posibilidades, dando lugar al juego, armando red junto a nuestra gente querida y admirada, buscándole la vuelta a los recursos y compartiendo siempre para que lo que hacemos esté al alcance de todes.
-
-Donde sea que vamos, como las tortugas o los caracoles, llevamos nuestra casa imaginada con nosotres. Bibliotecas, escuelas, plazas, terrazas, patios, meets, videollamadas, ferias, festivales, desde donde estemos… Y nuestra casa, donde les esperamos, obvio.
-
-Somos [[Agustina Arévalo Báez]], [[Daniela Azulay]], [[Vanina Boco]], [[Barbi Couto]], [[Mauricio Micheloud]] y [[Silvia Orecchia]]. Nuestra casa imaginada tiene dirección postal en Córdoba Argentina. La casa digital es en realidad un jardín, este que estás recorriendo y si quieren escribirnos nuestro correo es casaimaginadacoop@gmail.com
-
-[Instagram](https://www.instagram.com/casa.imaginada/) · [YouTube](https://www.youtube.com/@casa.imaginada) · [Telegram](https://t.me/casaimaginada) · [WhatsApp](https://whatsapp.com/channel/0029Vajff4m6WaKkzAmXsV29)
-
-## Nuestros proyectos
-
-[[Ediciones de la Terraza]]
-Editorial de libros ilustrados con licencias [[Creative Commons]] · desde 2012
-
-[Nuestros libros](https://edicioneslaterraza.com.ar/portfolio/) · [Instagram](https://www.instagram.com/edicionesdelaterraza/) · [Facebook](https://www.facebook.com/EdicionesDeLaTerraza) · [YouTube](https://www.youtube.com/@EdicionesdelaTerraza)
-
-[[Traficante de libros]]
-Librería de libros ilustrados · venta en sede y ferias · desde 2014
-
-[Instagram](https://www.instagram.com/traficantedelibros/) · [Facebook](https://www.facebook.com/traficantesdelibros)
-
-[[Casa Rodante]]
-Talleres y servicios editoriales para organizaciones educativas y comunitarias
-[Conocé más →](dossier_casa_rodante_compressed.pdf)
-
-[[Artilugio]]
-Productos gráficos artesanales · cuadernos, láminas, pósters
-
-[[Nuestra tienda]]
-Te invitamos a navegar la tienda y consultarnos lo que necesites en [Empretienda](https://casaimaginada.empretienda.com.ar/)
-
-## Formamos parte de
-
-### [Libre Base](https://librebase.org.ar/)
-Organización colectiva por la cultura y el software libre · Córdoba
-
-[Instagram](https://www.instagram.com/librebase/) · [YouTube](https://www.youtube.com/@flisolcordoba5334) · [Telegram](https://t.me/flisolcba)
-
-### [Brujas Bucaneras](https://brujasbucaneras.wordpress.com/)
-Juego-aquelarre-club de lectura libre y gratuito · desde 2019
-
-[Instagram](https://www.instagram.com/brujasbucaneras/) · [YouTube](https://www.youtube.com/@Brujasbucaneras)
+Una de tantas formas de empezar es por acá: #cultura-libre 
 
 ---
 Sitio en construcción · 2026
