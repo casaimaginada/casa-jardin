@@ -2,6 +2,8 @@
 title: Mauricio Cerbellera
 tags:
   - ilustradores/as
+aliases:
+  - Mauricio Cerbellera
 draft: false
 ---
 Mauricio Cerbellera es ilustrador de [[en-vereda|En Vereda]]

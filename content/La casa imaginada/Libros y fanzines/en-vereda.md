@@ -15,7 +15,7 @@ la siesta,
 en vereda_
 
 ### Ficha del libro
-Autor: [[Mauricio Micheloud]]
+Autor: [[mauricio-micheloud]]
 Ilustrador: [[mauricio-cerbellera|Mauricio Cerbellera]]
 ISBN: 978-987-4991-34-8
 1a ed. 2023
