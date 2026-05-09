@@ -15,6 +15,8 @@ La **Guía del wikimedista barrial, en Alberdi** es un libro-guía digital, que 
 
 [Descargar el pdf desde Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Gu%C3%ADa_del_wikimedista_barrial,_en_Alberdi.pdf)
 
+<iframe src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Gu%C3%ADa_del_wikimedista_barrial%2C_en_Alberdi.pdf" width="100%" height="800px"></iframe>
+
 ISBN: 978-631-91559-1-4
 1a edición / Digital PDF
 Casa Rodante 2026
