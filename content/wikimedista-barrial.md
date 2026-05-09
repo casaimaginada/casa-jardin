@@ -9,18 +9,21 @@ tags:
   - comunidad
 draft: false
 ---
-La **Guía del wikimedista barrial, en Alberdi** es un libro-guía digital, que funciona como crónica y guía del proyecto de mismo nombre, seleccionado en 2025 en la convocatoria de apoyo a "Proyectos de la Comunidad", organizada por [[Wikimedia Argentina]] cada año. El proyecto consistió en un tour fotográfico y una editatón para fotografiar el [[barrio Alberdi]] y subir las fotos a Wikimedia Commons, todo de manos de sus propios vecinos y finalizó cronicado en esta guía que aquí presentamos. 
-
-![[guia-wikimedista-barrial-alberdi-tapa.png|200]]
-
-[Descargar el pdf desde Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Gu%C3%ADa_del_wikimedista_barrial,_en_Alberdi.pdf)
+La **Guía del wikimedista barrial, en Alberdi** es un libro-guía digital, que funciona como crónica y guía del proyecto de mismo nombre, seleccionado en 2025 en la convocatoria de apoyo a "Proyectos de la Comunidad", organizada por [Wikimedia Argentina](https://wikimedia.org.ar/) cada año. El proyecto consistió en un tour fotográfico y una editatón para fotografiar el [[barrio Alberdi]] y subir las fotos a [Wikimedia Commons](https://commons.wikimedia.org), todo de manos de sus propios vecinos y finalizó cronicado en esta guía que aquí presentamos. 
 
 <iframe src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Gu%C3%ADa_del_wikimedista_barrial%2C_en_Alberdi.pdf" width="100%" height="800px"></iframe>
 
-ISBN: 978-631-91559-1-4
-1a edición / Digital PDF
-Casa Rodante 2026
-62 páginas
+[Descargar el pdf desde Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Gu%C3%ADa_del_wikimedista_barrial,_en_Alberdi.pdf)
+
+### Ficha del libro
+
+![[guia-wikimedista-barrial-alberdi-tapa.png|200]]
+Autoras: [[Barbi Couto]] y [[Vanina Boco]]. Ilustraciones de [[Mauricio Micheloud]]
+El libro incluye un dossier fotográfico del barrio con los créditos indicados en cada fotografía. 
+ISBN: 978-631-91559-1-4,
+1a edición / Digital PDF.
+Casa Rodante, 2026.
+62 páginas.
 
 **Guía del wikimedista barrial, en Alberdi** se distribuye bajo una Licencia [[Creative Commons]] Atribución-CompartirIgual 4.0 Internacional [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 
