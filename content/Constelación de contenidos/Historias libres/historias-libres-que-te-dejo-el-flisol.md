@@ -9,8 +9,9 @@ draft: false
 Pasó el [FLISoL 2026](https://librebase.org.ar/), el festival más grande de su tipo en Latinoamérica. Compartimos este breve video de nuestra sección [[Historias libres]] para compartir la alegría y entusiasmo que nos quedó a todes les organizadores. 
 Música: Bustin Loose, audionautix.com
 
-Podés verlo en: 
-![](https://youtube.com/shorts/3vn0ARanH_U?si=JcFc-VVJlCLYZQmN)
+Podés verlo en:
+
+![](https://www.youtube.com/watch?v=3vn0ARanH_U)
 
 ### Agradecimiento de Matías Bordone
 
@@ -42,7 +43,11 @@ Un abrazo inmenso a cada uno y cada una. Nos vemos pronto con excusa de hacer un
 ### Más info
 
 Podés seguir al FLISoL por estos lados: 
+
 [Página web de Libre Base](https://librebase.org.ar/)
+
 [Mastodon de Libre Base](https://mastodon.uy/@librebase)
+
 [Instagram de FLISoLCba](https://www.instagram.com/flisolcba/)
+
 [Youtube de FLISoLCba](https://www.youtube.com/@flisolcordoba5334)
