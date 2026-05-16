@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 Pasó el [FLISoL 2026](https://librebase.org.ar/), el festival más grande de su tipo en Latinoamérica. Compartimos este breve video de nuestra sección [[Historias libres]] para compartir la alegría y entusiasmo que nos quedó a todes les organizadores. 
+
+Video: [[Barbi Couto]]
+
 Música: Bustin Loose, audionautix.com
 
 Podés verlo en:
@@ -15,7 +18,8 @@ Podés verlo en:
 
 ### Agradecimiento de Matías Bordone
 
-[[Matías Bordone]] es integrante de [[Libre Base]] y uno de los organizadores del evento. Nos parece importante 
+[[Matías Bordone]] es integrante de [[Libre Base]] y uno de los organizadores del evento. Nos parece importante recuperar sus palabras porque enmarcan la forma en la que nos gusta trabajar: colectiva y horizontalmente, aprendiendo en comunidad.
+
 ¡Hola gente hermosa!
 Quiero empezar este mensaje felicitándonos por haber hecho del [[FLISoL Córdoba]] 2026 el mejor FLISoL del mundo mundial. Como se dijo en los medios: el festival más grande de su tipo en Latinoamérica. Y en nuestro caso, algunos números para enmarcar: entre 300 y 400 personas de asistencia (320 inscriptos, más quienes fueron sin inscribirse o pasaron por la olla popular), más de 30 actividades en vivo, y, lo más increíble, empezamos y terminamos respetando el cronograma. ¡Histórico!
 Y todo disfrutado, compartido, sin haber fallecido nadie en el intento. 
@@ -34,11 +38,11 @@ Quiero agradecer a cada uno:
 - Emi y Carlos de Codearla, que se pusieron a full con el manejo de redes, ayudando a que más gente conociera el evento y el espíritu de lo que hacemos. Mucha gente nos elogió la onda, el dinamismo y la frescura de las redes este año — y las entrevistas del mismo día fueron un golazo.
 - Fede, Chacha, Luis, Jere, Largo y demás Cybercirujas, que sostuvieron como siempre la olla popular, consiguieron premios para la rifa y armaron la feria Cyberciruja de la tarde.
 
-Creo que este evento se trata de compartir y construir conocimiento y experiencias juntos. Y eso se vio reflejado de principio a fin — tanto el día del evento como en todo el proceso de preparación, donde aprendimos a conocernos y a poner lo mejor de nosotros. Todo se vio en los pasillos, las aulas, el living, en las risas de la gente, en los números de teléfono intercambiados y en las miradas cómplices.
-Yo, feliz. 
+Creo que este evento se trata de compartir y construir conocimiento y experiencias juntos. Y eso se vio reflejado de principio a fin — tanto el día del evento como en todo el proceso de preparación, donde aprendimos a conocernos y a poner lo mejor de nosotros. Todo se vio en los pasillos, las aulas, el living, en las risas de la gente, en los números de teléfono intercambiados y en las miradas cómplices. Yo, feliz. 
+
 🧡
-Un abrazo inmenso a cada uno y cada una. Nos vemos pronto con excusa de hacer un balance del evento.
-¡Éxitos y seguimos!
+
+Un abrazo inmenso a cada uno y cada una. Nos vemos pronto con excusa de hacer un balance del evento. ¡Éxitos y seguimos!
 
 ### Más info
 

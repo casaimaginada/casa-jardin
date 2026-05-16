@@ -7,7 +7,7 @@ tags:
   - recomendaciones
 draft: false
 ---
-[[novedades y no tanto]] es un espacio de Casa Imaginada donde comentamos los libros y otras producciones narrativas que queremos recomendar. Invitamos a escuchar y compartir 🎧🧉
+[[Novedades y no tanto]] es un espacio de Casa Imaginada donde comentamos los libros y otras producciones narrativas que queremos recomendar. Invitamos a escuchar y compartir 🎧🧉
 
 📚 En esta ocasión, [[La higuera]], escrito por [[Juana de Ibarbourou]] e ilustrado por [[Diego de Arena]], colección Cordillera, [[Pez Menta]] Claraboya ediciones, Buenos Aires, 2022.
 ✨

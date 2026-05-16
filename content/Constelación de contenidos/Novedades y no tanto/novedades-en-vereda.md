@@ -8,8 +8,8 @@ tags:
   - cultura-libre
 draft: false
 ---
-[[novedades y no tanto]] es un espacio de Casa Imaginada donde comentamos los libros y otras producciones narrativas que queremos recomendar. Invitamos a escuchar y compartir 🎧🧉
-📚 En esta ocasión, [[en-vereda]], escrito por [[mauricio-micheloud]] e ilustrado por [[mauricio-cerbellera]], colección [[Acordeón]], [[Ediciones de la Terraza]], 2023.
+[[Novedades y no tanto|Novedades y  no tanto]] es un espacio de Casa Imaginada donde comentamos los libros y otras producciones narrativas que queremos recomendar. Invitamos a escuchar y compartir 🎧🧉
+📚 En esta ocasión, [[En vereda|En vereda]], escrito por [[Mauricio Micheloud|Mauricio Micheloud]] e ilustrado por [[Mauricio Cerbellera|Mauricio Cerbellera]], colección [[Acordeón]], [[Ediciones de la Terraza]], 2023.
 Reseña: [[Daniela Azulay]]
 Video: [[Barbi Couto]]
 Música por audionautix.com. Licencia Creative Commons Atribución 4.0 Internacional.

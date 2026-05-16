@@ -1,5 +1,7 @@
 ---
 title: Guía del wikimedista barrial, en Alberdi
+aliases:
+  - Guía del wikimedista barrial en Alberdi
 date: 2026-04-16
 tags:
   - cultura-libre
@@ -18,7 +20,7 @@ La **Guía del wikimedista barrial, en Alberdi** es un libro-guía digital, que 
 ### Ficha del libro
 
 ![[guia-wikimedista-barrial-alberdi-tapa.png|200]]
-Autoras: [[Barbi Couto]] y [[Vanina Boco]]. Ilustraciones de [[mauricio-micheloud|El Esperpento]]
+Autoras: [[Barbi Couto]] y [[Vanina Boco]]. Ilustraciones de [[Mauricio Micheloud|El Esperpento]]
 El libro incluye un dossier fotográfico del barrio con los créditos indicados en cada fotografía. 
 ISBN: 978-631-91559-1-4,
 1a edición / Digital PDF.

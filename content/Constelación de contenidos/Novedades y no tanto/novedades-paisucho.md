@@ -8,7 +8,7 @@ tags:
   - cultura-libre
 draft: false
 ---
-[[novedades y no tanto]] es un espacio de Casa Imaginada donde comentamos los libros y otras producciones narrativas que queremos recomendar. Invitamos a escuchar y compartir 🎧🧉
+[[Novedades y no tanto]] es un espacio de Casa Imaginada donde comentamos los libros y otras producciones narrativas que queremos recomendar. Invitamos a escuchar y compartir 🎧🧉
 📚 En esta ocasión, [[paisucho]] un [[álbum de figuritas]] poético escrito por [[Sebastián Vargas]] e ilustrado por [[El Esperpento]], [[Ediciones de la Terraza]], 2025.
 Reseña: [[Daniela Azulay]]
 Video: [[Barbi Couto]]

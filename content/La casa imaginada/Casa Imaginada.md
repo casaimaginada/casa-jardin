@@ -1,5 +1,11 @@
 ---
 title: Manifiesto
+aliases:
+  - casa imaginada
+  - Casa Imaginada
+  - la casa
+  - nuestra casa
+  - la cooperativa
 draft: false
 ---
 Somos una cooperativa cultural de trabajo, radicada en Córdoba, Argentina y dedicada a la producción y difusión de las narrativas que más nos gustan en múltiples soportes y lenguajes.
@@ -10,7 +16,7 @@ Apostamos por trabajar como nos gusta. Disfrutando el día a día, explorando la
 
 Donde sea que vamos, como las tortugas o los caracoles, llevamos nuestra casa imaginada con nosotres. Bibliotecas, escuelas, plazas, terrazas, patios, meets, videollamadas, ferias, festivales, desde donde estemos… Y nuestra casa, donde les esperamos, obvio.
 
-Somos [[Agustina Arévalo Báez]], [[Daniela Azulay]], [[Vanina Boco]], [[Barbi Couto]], [[mauricio-micheloud]] y [[Silvia Orecchia]]. Nuestra casa imaginada tiene dirección postal en Córdoba Argentina. La casa digital es en realidad un jardín, este que estás recorriendo y si quieren escribirnos nuestro correo es casaimaginadacoop@gmail.com
+Somos [[Agustina Arévalo Báez]], [[Daniela Azulay]], [[Vanina Boco]], [[Barbi Couto]], [[Mauricio Micheloud]] y [[Silvia Orecchia]]. Nuestra casa imaginada tiene dirección postal en Córdoba Argentina. La casa digital es en realidad un jardín, este que estás recorriendo y si quieren escribirnos nuestro correo es casaimaginadacoop@gmail.com
 
 [Instagram](https://www.instagram.com/casa.imaginada/) · [YouTube](https://www.youtube.com/@casa.imaginada) · [Telegram](https://t.me/casaimaginada) · [WhatsApp](https://whatsapp.com/channel/0029Vajff4m6WaKkzAmXsV29)
 
