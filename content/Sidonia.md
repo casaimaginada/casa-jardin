@@ -12,17 +12,12 @@ draft: false
 
 El jueves 4 de junio se presentó Sidonia en la Casona Municipal. Una mesa baja preparada con tacitas de café y un programa de bella caligrafía; una mesa-rompecabeza de gran delicadeza llena de objetos, ilustraciones y textos preparados para una exploración mágica; una guitarra prometiendo aires del litoral. Las anfitrionas fueron Soledad Rebelles, Josefina Calvo y Melisa Álvarez, mujeres que en las historias de Sidonia se encuentran, se miran en ella y sienten que resuena poesía de su reflejo. Mujeres que leen, mujeres que hacen libros, mujeres que ilustran, mujeres que cantan, mujeres que crean, mujeres que comparten, mujeres que viven la vida como Sidonia. 
 
->[!note] 📖 Sidonia
->
->Textos: Laura Devetach
->
->Ilustraciones: Josefina Calvo
->
->Edición: Soledad Rebelles
->
->Diseño: Ivana Myszkoroski.
->
->Ediciones Cuentos en boca, Córdoba, 2025
+>[!note] 📖 Sidonia  
+>Textos: Laura Devetach  
+>Ilustraciones: Josefina Calvo  
+>Edición: Soledad Rebelles  
+>Diseño: Ivana Myszkoroski  
+>Ediciones Cuentos en boca, Córdoba, 2025  
 
 Compartimos la galería de imágenes de la presentación, que fue una ronda cómplice de gente querida donde no faltaron lecturas, música, abrazos y cosas ricas. Hacé click en la imagen :)
 
